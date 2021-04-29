@@ -1,4 +1,4 @@
-# Hi there, I'm Richard! 👊😉
+# Hi there, I'm Richard!👋😉
 
 Nice to see you here! My name is Ricardo Oliveira, but you can call me *Richard* if you preffer. I'm studying English on my own and graduating in Analysis and Systems Development. I'm always prepared to face new challenges and I'll do my best to beat it.
 
@@ -28,9 +28,8 @@ Reach me out 👇
 <a href="https://www.linkedin.com/in/ricardo-barbosa-oliveira/">
   <img src="https://img.shields.io/badge/-Ricardo%20Oliveira-blue?style=flat-square&logo=Linkedin&logoColor=white" />
 </a>&nbsp;
-<a href="mailto:richardi.developer@gmail.com">
-  <img src="https://img.shields.io/badge/-richardi.developer@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white" />
-</a>
+  
+[![Gmail Badge](https://img.shields.io/badge/-richardi.developer@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:richardi.developer@gmail.com)](mailto:richardi.developer@gmail.com)
 </p>
 
 
