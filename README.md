@@ -4,18 +4,18 @@ Nice to see you here! My name is Ricardo Oliveira, but you can call me *Richard*
 
 Bom ver você aqui! Meu nome é Ricardo Oliveira, mas você pode me chamar de *Richard* se preferir. Então, estou estudando Inglês por conta prória e me formando em Análise e Desenvolvimento de Sistemas. Estou sempre preparado para enfrentar novos desafios e farei o possível para vencê-los.
 
-
+</br>
+</br>
 
 
 - 🎓 Computer Technician - IFBA.
-- 🌎 Live in Bahia, Brazil.
 - 🌱 I’m currently learning Bootstrap.
-
-- **Skills:** HTML5 | CSS3 | JavaScript.
+- 💻 HTML5 | CSS3 | JavaScript.
+- 🌎 Live in Bahia, Brazil.
 
 
 <p align="center">
-<a href="https://www.linkedin.com/in/ricardo-barbosa-oliveira/" target="blank"><img alt="Linkedin Badge" src="https://img.shields.io/badge/-Ricardo%20Oliveira-563D7C?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ricardo-barbosa-oliveira/"/></a>
+<a href="https://www.linkedin.com/in/ricardo-barbosa-oliveira/" target="_blank"><img alt="Linkedin Badge" src="https://img.shields.io/badge/-Ricardo%20Oliveira-563D7C?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ricardo-barbosa-oliveira/"/></a>
 
 
 
