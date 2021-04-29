@@ -1,15 +1,15 @@
 # Hi there, I'm Richard! 👊😃
 
-Hello, nice to see you here! My name is Ricardo Oliveira, but you can call me *Richard* if you preffer. So, I'm studying English on my own  and I'm graduating in Analysis and Systems Development. I like everything that involves technology. Always open to new challenges and ready to face changes. 
+Nice to see you here! My name is Ricardo Oliveira, but you can call me *Richard* if you preffer. So, I'm studying English on my own and graduating in Analysis and Systems Development. I'm always prepared to face new challenges and I'll do my best to beat it.
 
-Olá, que bom ver você aqui! Meu nome é Ricardo Oliveira, mas você pode me chamar de *Richard* se preferir. Então, estou estudando Inglês por conta prória e estou me formando em Análise e Desenvolvimento de Sistemas. Gosto de tudo que envolve tecnologia. Sempre aberto a novos desafios e pronto para enfrentar mudanças.
+Bom ver você aqui! Meu nome é Ricardo Oliveira, mas você pode me chamar de *Richard* se preferir. Então, estou estudando Inglês por conta prória e me formando em Análise e Desenvolvimento de Sistemas. Estou sempre preparado para enfrentar novos desafios e farei o possível para vencê-los.
 
 
 
 
 - 🎓 Computer Technician - IFBA.
 - 🌎 Live in Bahia, Brazil.
-- 🌱 I’m currently learning React.
+- 🌱 I’m currently learning Bootstrap.
 
 - **Skills:** HTML5 | CSS3 | JavaScript.
 
