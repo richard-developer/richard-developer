@@ -25,11 +25,12 @@ Reach me out 👇
 </h3>
 
 <p align='center'>
-<a href="https://www.linkedin.com/in/ricardo-barbosa-oliveira/">
+<a href="https://www.linkedin.com/in/ricardo-barbosa-oliveira/" target="_blank">
   <img src="https://img.shields.io/badge/-Ricardo%20Oliveira-blue?style=flat-square&logo=Linkedin&logoColor=white" />
 </a>&nbsp;
   
-[![Gmail Badge](https://img.shields.io/badge/-richardi.developer@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:richardi.developer@gmail.com)](mailto:richardi.developer@gmail.com)
+<a href="mailto:richardi.developer@gmail.com" target="_blank">
+  <img alt="Gmail Badge" src="https://img.shields.io/badge/-richardi-developer@gmail.com-563D7C?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mailto:richardi.developer@gmail.com"/></a>
 </p>
 
 
