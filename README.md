@@ -21,7 +21,7 @@ Bom ver você aqui! Meu nome é Ricardo Oliveira, mas você pode me chamar de *R
 </p>
 
 <h3 align="center"> 
-👉 Reach me out:
+☑️Reach me out:
 </h3>
 
 <p align="center">
