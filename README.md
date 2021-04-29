@@ -6,12 +6,13 @@ Bom ver você aqui! Meu nome é Ricardo Oliveira, mas você pode me chamar de *R
 
 </br>
 </br>
-
-
 - 🎓 Computer Technician - IFBA.
 - 🌱 I’m currently learning Bootstrap.
 - 💻 HTML5 | CSS3 | JavaScript.
 - 🌎 Living in Bahia, Brazil.
+</br>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=richard-developer&theme=tokyonight&show_icons=true)
 
 <h3 align="center"> 
 Reach me out 👇
