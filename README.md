@@ -4,11 +4,11 @@ Hello, nice to see you here! My name is Ricardo Oliveira, but you can call me *R
 
 Olá, que bom ver você aqui! Meu nome é Ricardo Oliveira, mas você pode me chamar de *Richard* se preferir. Então, estou estudando Inglês por conta prória e estou me formando em Análise e Desenvolvimento de Sistemas. Gosto de tudo que envolve tecnologia. Sempre aberto a novos desafios e pronto para enfrentar mudanças.
 
-
-- 🌎 I'm living in Bahia, Brazil.
+- 🎓 Computer Technician - IFBA.
+- 🌎 Live in Bahia, Brazil.
 - 🌱 I’m currently learning React.
 
-- **Skills:** HTML5 | CSS3, JavaScript and Bootstrap.
+- **Skills:** HTML5 | CSS3 | JavaScript.
 
 
 <p align="center">
