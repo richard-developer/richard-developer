@@ -10,9 +10,12 @@ Bom ver você aqui! Meu nome é Ricardo Oliveira, mas você pode me chamar de *R
 - 🌱 I’m currently learning Bootstrap.
 - 💻 HTML5 | CSS3 | JavaScript.
 - 🌎 Living in Bahia, Brazil.
- 
 
 </br>
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=richard-developer&show_icons=true&theme=dracula"> 
+</p>
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=richard-developer&layout=compact&theme=dracula"> 
