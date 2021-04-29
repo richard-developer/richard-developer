@@ -28,12 +28,10 @@ Reach me out 👇
 <a href="https://www.linkedin.com/in/ricardo-barbosa-oliveira/" target="_blank">
   <img src="https://img.shields.io/badge/-Ricardo%20Oliveira-blue?style=flat-square&logo=Linkedin&logoColor=white" />
 </a>&nbsp;
-<a href="mailto:richardi.developer@gmail.com" target="blank"><img alt="Gmail Badge" src="https://img.shields.io/badge/-richardi.developer@gmail.com
--563D7C?style=flat-square&logo=Gmail&logoColor=white&link=mailto:richardi.developer@gmail.com"/></a>
   
-  <a href="mailto:muttiyuri@gmail.com" target="blank"><img alt="Gmail Badge" src="https://img.shields.io/badge/-contato@yurimutti.com-563D7C?style=flat-square&logo=Gmail&logoColor=white&link=mailto:muttiyuri@gmail.com"/></a>
+<a href="mailto:muttiyuri@gmail.com" target="blank"><img alt="Gmail Badge" src="https://img.shields.io/badge/-contato@yurimutti.com-563D7C?style=flat-square&logo=Gmail&logoColor=white&link=mailto:muttiyuri@gmail.com"/></a>
 </p>
-</p>
+
 
 
 
