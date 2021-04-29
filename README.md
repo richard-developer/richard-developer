@@ -1,16 +1,19 @@
-### Hi there 👋
+# Hi there, I'm Richard! 👊😃
 
-<!--
-**richard-developer/richard-developer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, nice to see you here! My name is Ricardo Oliveira, but you can call me *Richard* if you preffer. So, I'm studying English on my own  and I'm graduating in Analysis and Systems Development. I like everything that involves technology. Always open to new challenges and ready to face changes. 
 
-Here are some ideas to get you started:
+Olá, que bom ver você aqui! Meu nome é Ricardo Oliveira, mas você pode me chamar de *Richard* se preferir. Então, estou estudando Inglês por conta prória e estou me formando em Análise e Desenvolvimento de Sistemas. Gosto de tudo que envolve tecnologia. Sempre aberto a novos desafios e pronto para enfrentar mudanças.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🌎 I'm living in Bahia, Brazil.
+- 🌱 I’m currently learning React.
+
+- **Skills:** HTML5 | CSS3, JavaScript and Bootstrap.
+
+
+<p align="center">
+<a href="https://www.linkedin.com/in/ricardo-barbosa-oliveira/" target="blank"><img alt="Linkedin Badge" src="https://img.shields.io/badge/-Ricardo%20Oliveira-563D7C?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yuri-mutti-0418bb1aa/"/></a>
+
+
+
+
