@@ -29,7 +29,7 @@ Reach me out 👇
   <img src="https://img.shields.io/badge/-Ricardo%20Oliveira-blue?style=flat-square&logo=Linkedin&logoColor=white" />
 </a>&nbsp;
   
-<a href="mailto:muttiyuri@gmail.com" target="blank"><img alt="Gmail Badge" src="https://img.shields.io/badge/-contato@yurimutti.com-563D7C?style=flat-square&logo=Gmail&logoColor=white&link=mailto:muttiyuri@gmail.com"/></a>
+<a href="mailto:muttiyuri@gmail.com" target="blank"><img alt="Gmail Badge" src="https://img.shields.io/badge/-contato@yurimutti.com-563D7C?style=flat-square&logo=Gmail&logoColor=white&link=mailto:muttiyuri@gmail.com"</a>
 </p>
 
 
