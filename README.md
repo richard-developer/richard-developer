@@ -1,8 +1,8 @@
-# Hi there, I'm Richard!👋😉
+# Hi, I'm Richard!👋😉
 
-Nice to see you here! My name is Ricardo Oliveira. I'm studying English on my own and graduating in Analysis and Systems Development. I'm always prepared to face new challenges and I'll do my best to beat it.
+Nice to see you here! My name is Ricardo Oliveira. I'm studying English on my own and graduating in Analysis and Systems Development. So, my goal is to work with Web Development. I'm always prepared to face new challenges and I'll do my best to beat it.
 
-Bom ver você aqui! Meu nome é Ricardo Oliveira. Estou estudando Inglês por conta prória e me formando em Análise e Desenvolvimento de Sistemas. Sempre preparado para enfrentar novos desafios e farei o meu melhor para vencê-los.
+Bom ver você aqui! Meu nome é Ricardo Oliveira. Estou estudando Inglês por conta prória e me formando em Análise e Desenvolvimento de Sistemas. Assim, meu objetivo é trabalhar com Desenvolvimento Web. Estou sempre preparado para enfrentar novos desafios e farei o meu melhor para vencê-los.
 
 
 - 🎓 Computer Technician - IFBA.
