@@ -1,12 +1,10 @@
-# Hi, I'm Richard!👋😉
+# Olá, tudo bem?!👋😉
 
-Nice to see you here! My name is Ricardo Oliveira. I'm studying English on my own and graduating in Analysis and Systems Development. So, my goal is to work with Web Development. I'm always prepared to face new challenges and I'll do my best to beat it.
-
-Bom ver você aqui! Meu nome é Ricardo Oliveira. Estou estudando Inglês por conta prória e me formando em Análise e Desenvolvimento de Sistemas. Assim, meu objetivo é trabalhar com Desenvolvimento Web. Estou sempre preparado para enfrentar novos desafios e farei o meu melhor para vencê-los.
+Bom ver você aqui! Meu nome é Ricardo Oliveira. Possuo formação técnica em Informática e estou cursando o último semestre em Análise e Desenvolvimento de Sistemas. Atualmente sou desenvolvedor SAP ABAP, mas meu objetivo é trabalhar com Desenvolvimento Java Web. Estou sempre em busca de enfrentar novos desafios e farei o meu melhor para vencê-los.
 
 
 - 🎓 Computer Technician - IFBA.
-- 🌱 I’m currently learning JavaScript and Java.
+- 🌱 I’m currently learning Java and JavaScript.
 - 💻 HTML5 | CSS3.
 - 🌎 Living in Bahia, Brazil.
 
