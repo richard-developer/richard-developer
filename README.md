@@ -12,10 +12,6 @@ Bom ver você aqui! Meu nome é Ricardo Oliveira, possuo formação técnica em 
 </br>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=richard-developer&show_icons=true&theme=tokyonight "> 
-</p>
-
-<p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=richard-developer&layout=compact&theme=tokyonight"> 
 </p>
 
