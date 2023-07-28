@@ -1,10 +1,11 @@
 # Olá, tudo bem?!👋😉
 
-Bom ver você aqui! Meu nome é Ricardo Oliveira. Possuo formação técnica em Informática e estou cursando o último semestre em Análise e Desenvolvimento de Sistemas. Atualmente sou desenvolvedor SAP ABAP, mas meu objetivo é trabalhar com Desenvolvimento Java Web. Estou sempre em busca de enfrentar novos desafios e farei o meu melhor para vencê-los.
+Bom ver você aqui! Meu nome é Ricardo Oliveira, possuo formação técnica em Informática e tecnólogo em Análise e Desenvolvimento de Sistemas. Atualmente, sou desenvolvedor SAP ABAP e estou focado em aprender sobre as novas tecnologias da SAP, como S/4HANA, FIORI e SAPUI5.
 
 
 - 🎓 Computer Technician - IFBA.
-- 🌱 I’m currently learning Java and JavaScript.
+- 🎓 Technologist in Systems Analysis and Development.
+- 🌱 I’m currently learning ABAP and JavaScript.
 - 💻 HTML5 | CSS3.
 - 🌎 Living in Bahia, Brazil.
 
