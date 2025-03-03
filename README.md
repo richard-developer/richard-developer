@@ -6,7 +6,7 @@ Meu nome é Ricardo Oliveira, tenho 34 anos, possuo formação técnica em Infor
 - 🎓 Computer Technician - IFBA.
 - 🎓 Technologist in Systems Analysis and Development.
 - 🌱 I’m currently learning ABAP and JavaScript.
-- 🌎 Living in Bahia, Brazil.
+- 🌎 Living Camaçari, Bahia, Brazil.
 
 </br>
 
