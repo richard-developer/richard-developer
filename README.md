@@ -1,6 +1,6 @@
 # Olá, tudo bem?!👋😉
 
-Bom ver você aqui! Meu nome é Ricardo Oliveira, possuo formação técnica em Informática e tecnólogo em Análise e Desenvolvimento de Sistemas. Atualmente, sou desenvolvedor SAP ABAP e estou focado em aprender sobre as novas tecnologias como SAP S/4HANA, BTP e FIORI.
+Meu nome é Ricardo Oliveira, tenho 34 anos, possuo formação técnica em Informática e tecnólogo em Análise e Desenvolvimento de Sistemas. Atualmente, sou desenvolvedor SAP ABAP e estou focado em aprender sobre as novas tecnologias como SAP S/4HANA, BTP e FIORI.
 
 
 - 🎓 Computer Technician - IFBA.
